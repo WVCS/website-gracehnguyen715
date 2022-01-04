@@ -9,13 +9,15 @@ background-color: white;
   <title>Document</title>
 </head>
 <body>
- <br>
+
   <nav>
     <li><a href="index.html"> Home </a></li>
     <li><a href="index.html"> My Apps </a>
         <li><a href="https://www.powayusd.com/en-US/Schools/HS/WVHS/HOME">  Westview </a>
     
   </nav>
+ 
+  <br>
  
   h1 {
   background-color: #F1E3D3;
