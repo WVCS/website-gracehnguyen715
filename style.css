@@ -1,15 +1,4 @@
 body {
-  h1 {
-  background-color: #F1E3D3;
-  color: #D88C9A;
-  letterspacing: 5px;
-  font-size: 300%;
-    text-shadow: 2px 2px #8E7DBE;
-}
-p{
-  color:#D88C9A;
-  font-size: 200%;
-}
 background-color: white;
  <!DOCTYPE html>
 <html lang="en">
@@ -31,6 +20,17 @@ background-color: white;
 </html>
 }
 
+  h1 {
+  background-color: #F1E3D3;
+  color: #D88C9A;
+  letterspacing: 5px;
+  font-size: 300%;
+    text-shadow: 2px 2px #8E7DBE;
+}
+p{
+  color:#D88C9A;
+  font-size: 200%;
+}
 nav{
   list-style-type: none;
   background-color: #567890;
