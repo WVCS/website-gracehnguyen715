@@ -1,4 +1,15 @@
 body {
+  h1 {
+  background-color: #F1E3D3;
+  color: #D88C9A;
+  letterspacing: 5px;
+  font-size: 300%;
+    text-shadow: 2px 2px #8E7DBE;
+}
+p{
+  color:#D88C9A;
+  font-size: 200%;
+}
 background-color: white;
  <!DOCTYPE html>
 <html lang="en">
@@ -15,22 +26,7 @@ background-color: white;
     <li><a href="index.html"> My Apps </a>
         <li><a href="https://www.powayusd.com/en-US/Schools/HS/WVHS/HOME">  Westview </a>
     
-  </nav>
- 
-
- 
-  h1 {
-  background-color: #F1E3D3;
-  color: #D88C9A;
-  letterspacing: 5px;
-  font-size: 300%;
-    text-shadow: 2px 2px #8E7DBE;
-}
-p{
-  color:#D88C9A;
-  font-size: 200%;
-}
-
+</nav>
 </body>
 </html>
 }
